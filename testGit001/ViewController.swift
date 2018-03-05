@@ -14,12 +14,17 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         test001()
+        test002()
         
         // Do any additional setup after loading the view, typically from a nib.
     }
 
     func test001() {
-        print("hello gitHub haha")
+        print("hello haha")
+    }
+    
+    func test002() {
+        print("hi")
     }
 
 
