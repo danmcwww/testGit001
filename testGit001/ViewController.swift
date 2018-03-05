@@ -21,6 +21,10 @@ class ViewController: UIViewController {
     func test001() {
         print("hello gitHub haha")
     }
+    
+    func test003() {
+        print("haha test003")
+    }
 
 
 }
