@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     }
 
     func test001() {
-        print("hello git")
+        print("hello gitHub")
     }
 
 
