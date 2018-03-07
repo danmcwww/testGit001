@@ -15,19 +15,24 @@ class ViewController: UIViewController {
         
         test001()
         test002()
+        test003()
+        test004()
         
         // Do any additional setup after loading the view, typically from a nib.
     }
 
     func test001() {
-        print("hello haha")
+        print("testGit001")
     }
     
     func test002() {
-        print("hi")
+        print("testGit002")
     }
     func test003() {
-        print("haha test003")
+        print("testGit003")
+    }
+    func test004() {
+        print("testGit004")
     }
 
 
