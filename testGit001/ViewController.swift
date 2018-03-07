@@ -26,7 +26,6 @@ class ViewController: UIViewController {
     func test002() {
         print("hi")
     }
-    
     func test003() {
         print("haha test003")
     }
